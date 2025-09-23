@@ -1,10 +1,10 @@
-# 🚀 Jack Zamary
+# 🧗‍♂️ Jack Zamary
 
 **` Student at William & Mary (Data Science/GIS/Biology)`**
 
-I’m a Data Science student at William & Mary specializing in GIS and spatial analytics, with a passion for applying geospatial tools to environmental challenges. From mapping harmful algal blooms in Alaska with Google Earth Engine to analyzing shoreline habitats at VIMS, I turn complex ecological data into clear, actionable insights. Outside of research, I enjoy cycling, running, and exploring the outdoors.
+I’m a Data Science student at William & Mary specializing in GIS and spatial analytics, with a passion for applying geospatial tools to environmental challenges. From mapping harmful algal blooms in Alaska with Google Earth Engine to analyzing shoreline habitats at VIMS, I turn complex ecological data into clear, actionable insights. Outside of research and class, I enjoy cycling, running, and exploring the outdoors!
 
-<p align="center">
+<p align="left">
   <a href="https://jlzamary.github.io">
     <img alt="Website" title="Visit my website" src="https://custom-icon-badges.demolab.com/badge/-Website-1DA1F2?style=for-the-badge&logo=globe&logoColor=white"/>
   </a>
@@ -15,6 +15,7 @@ I’m a Data Science student at William & Mary specializing in GIS and spatial a
     <img alt="LinkedIn" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=person-add&logoColor=white"/>
   </a>
 </p>
+
 
 <!--
 **jlzamary/jlzamary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
