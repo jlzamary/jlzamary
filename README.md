@@ -1,6 +1,6 @@
 # 🧗‍♂️ Jack Zamary
 
-**` Student at William & Mary (Data Science/GIS/Biology)`**
+**` Student at William & Mary (Data Science / Geospatial Analysis / Biology)`**
 
 Hey! I’m a Data Science student at William & Mary with a concentration in Spatial Data Analytics and a minor in Biology. I have a passion for applying geospatial tools to environmental challenges. I'm currently working on a project with the Institute for Integrative Conservation and the Wildlife Conservation Society to map ecological metrics in coastal alaskan lagoons. Outside of research and class, I enjoy cycling, running, and exploring the outdoors!
 
