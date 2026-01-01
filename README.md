@@ -1,3 +1,33 @@
+
+![banner](assets/im_jackz.png)
+
+## Hi There! 🧗‍♂️
+I'm Jack, a __Data Science__ major and __Biology__ minor 
+- Currently, I'm an undergraduate research analyst for the Wildlife Conservation Society
+- I specialize in building out machine learning pipelines and working with remote sensing data to better inform conservation-related decisions
+
+## Github Stats 
+
+<!-- Because my stats suck (C)
+[![Jack's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=jlzamary&theme=github_dark_dimmed&show_icons=true)](https://github.com/pranesh-2005/github-readme-stats-fast) 
+-->
+
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jlzamary&layout=compact&theme=github_dark_dimmed)
+
+## Socials
+
+[![Preview](assets/linkedin.png)](https://www.linkedin.com/in/jack-liam-zamary) &nbsp;
+[![Preview](assets/website.png)](https://jlzamary.github.io) &nbsp;
+[![Preview](assets/email.png)](mailto:jlzamary@wm.edu) &nbsp;
+[![Preview](assets/linktree.png)](https://linktr.ee/jack_zamary) &nbsp;
+
+
+
+
+<!--
+
+OLD README
+
 # 🧗‍♂️ Jack Zamary
 
 **` Student at William & Mary (Data Science / Geospatial Analysis / Biology)`**
@@ -17,7 +47,6 @@ Hey! I’m a Data Science student at William & Mary with a concentration in Spat
 </p>
 
 
-<!--
 **jlzamary/jlzamary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
