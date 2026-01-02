@@ -2,7 +2,7 @@
 ![banner](assets/im_jackz.png)
 
 ## Hi There! 🧗‍♂️
-I'm Jack, a __Data Science__ major and __Biology__ minor 
+I'm Jack, a __Data Science__ major and __Biology__ minor at William & Mary
 - Currently, I'm an undergraduate research analyst for the Wildlife Conservation Society
 - I specialize in building out machine learning pipelines and working with remote sensing data to better inform conservation-related decisions. Learn more about my research and projects on my [Portfolio Website](https://jlzamary.github.io/).
 
