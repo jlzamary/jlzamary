@@ -12,7 +12,20 @@ I'm Jack, a __Data Science__ major and __Biology__ minor at William & Mary
 [![Jack's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=jlzamary&theme=github_dark_dimmed&show_icons=true)](https://github.com/pranesh-2005/github-readme-stats-fast) 
 -->
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jlzamary&layout=compact&theme=github_dark_dimmed)
+<!-- ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jlzamary&layout=compact&theme=github_dark_dimmed) -->
+
+![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlzamary&layout=compact&theme=tokyonight)
+
+## 🧭 Current Snapshot
+
+| | |
+|-|-|
+| **Reading** | [*Catch-22*](https://www.amazon.com/Catch-22-50th-Anniversary-Joseph-Heller/dp/1451626657) |
+| **Current Projects** | Monthly Kaggle Playground Series & Personal Website |
+| **Current Research** | [Chukchi Sea Lagoons](https://github.com/jlzamary/WCS-Lagoon-Analysis) & [AI-Powered Identification of Manatees](https://www.wm.edu/offices/iic/research/2026-year-long-crp-projects/26-006-manatee-identification.php) |
+| **Currently Learning** | Docker & PyTorch |
+
+
 
 ## Socials
 
