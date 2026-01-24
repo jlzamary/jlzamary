@@ -3,8 +3,17 @@
 
 ## Hi There! 🧗‍♂️
 I'm Jack, a __Data Science__ major and __Biology__ minor at William & Mary
-- Currently, I'm an undergraduate research analyst for the Wildlife Conservation Society
+- Currently, I'm an undergraduate research analyst for the Wildlife Conservation Society and full time student
 - I specialize in building out machine learning pipelines and working with remote sensing data to better inform conservation-related decisions. Learn more about my research and projects on my [Portfolio Website](https://jlzamary.github.io/).
+
+## 🧭 Current Snapshot
+
+| | |
+|-|-|
+| **Reading** | [*Catch-22*](https://www.amazon.com/Catch-22-50th-Anniversary-Joseph-Heller/dp/1451626657) |
+| **Projects** | Monthly Kaggle Playground Series & Personal Website |
+| **Research** | [Chukchi Sea Lagoons](https://github.com/jlzamary/WCS-Lagoon-Analysis) & [AI-Powered Identification of Manatees](https://www.wm.edu/offices/iic/research/2026-year-long-crp-projects/26-006-manatee-identification.php) |
+| **Learning** | Docker & PyTorch |
 
 ## Github Stats 
 
@@ -16,25 +25,12 @@ I'm Jack, a __Data Science__ major and __Biology__ minor at William & Mary
 
 ![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlzamary&layout=compact&theme=tokyonight)
 
-## 🧭 Current Snapshot
-
-| | |
-|-|-|
-| **Reading** | [*Catch-22*](https://www.amazon.com/Catch-22-50th-Anniversary-Joseph-Heller/dp/1451626657) |
-| **Current Projects** | Monthly Kaggle Playground Series & Personal Website |
-| **Current Research** | [Chukchi Sea Lagoons](https://github.com/jlzamary/WCS-Lagoon-Analysis) & [AI-Powered Identification of Manatees](https://www.wm.edu/offices/iic/research/2026-year-long-crp-projects/26-006-manatee-identification.php) |
-| **Currently Learning** | Docker & PyTorch |
-
-
-
 ## Socials
 
 [![Preview](assets/linkedin.png)](https://www.linkedin.com/in/jack-liam-zamary) &nbsp;
 [![Preview](assets/website.png)](https://jlzamary.github.io) &nbsp;
 [![Preview](assets/email.png)](mailto:jlzamary@wm.edu) &nbsp;
 [![Preview](assets/linktree.png)](https://linktr.ee/jack_zamary) &nbsp;
-
-
 
 
 <!--
