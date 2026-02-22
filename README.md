@@ -23,8 +23,8 @@ I'm Jack, a __Data Science__ major and __Biology__ minor at William & Mary
 
 <!-- ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jlzamary&layout=compact&theme=github_dark_dimmed) -->
 
-<!-- ![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlzamary&layout=compact&theme=tokyonight) -->
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jlzamary&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=ayu-mirage)](https://github-stats-extended.vercel.app/api?username=jlzamary&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=ayu-mirage)
+![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlzamary&layout=compact&theme=tokyonight) 
+<!-- [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jlzamary&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=ayu-mirage)](https://github-stats-extended.vercel.app/api?username=jlzamary&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=ayu-mirage) -->
 
 ## Socials
 
