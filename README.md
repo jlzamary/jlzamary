@@ -11,9 +11,9 @@ I'm Jack, a __Data Science__ major and __Biology__ minor at William & Mary
 | | |
 |-|-|
 | **Reading** | [*Catch-22*](https://www.amazon.com/Catch-22-50th-Anniversary-Joseph-Heller/dp/1451626657) |
-| **Projects** | Monthly Kaggle Playground Series & Personal Website |
+| **Projects** | Currently None... *Busy with summer internship and research* |
 | **Research** | [Chukchi Sea Lagoons](https://github.com/jlzamary/WCS-Lagoon-Analysis) & [AI-Powered Identification of Manatees](https://www.wm.edu/offices/iic/research/2026-year-long-crp-projects/26-006-manatee-identification.php) |
-| **Learning** | Docker & PyTorch |
+| **Learning** | PyTorch [Mask R-CNN Architecture](https://docs.pytorch.org/vision/main/models/mask_rcnn.html) |
 
 ## Github Stats 
 
