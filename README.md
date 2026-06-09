@@ -15,17 +15,6 @@ I'm Jack, a __Data Science__ major and __Biology__ minor at William & Mary
 | **Research** | [Chukchi Sea Lagoons](https://github.com/jlzamary/WCS-Lagoon-Analysis) & [AI-Powered Identification of Manatees](https://www.wm.edu/offices/iic/research/2026-year-long-crp-projects/26-006-manatee-identification.php) |
 | **Learning** | PyTorch [Mask R-CNN Architecture](https://docs.pytorch.org/vision/main/models/mask_rcnn.html) |
 
-## Github Stats 
-
-<!-- Because my stats suck (C)
-[![Jack's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=jlzamary&theme=github_dark_dimmed&show_icons=true)](https://github.com/pranesh-2005/github-readme-stats-fast) 
--->
-
-<!-- ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jlzamary&layout=compact&theme=github_dark_dimmed) -->
-
-![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlzamary&layout=compact&theme=tokyonight) 
-<!-- [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jlzamary&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=ayu-mirage)](https://github-stats-extended.vercel.app/api?username=jlzamary&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=ayu-mirage) -->
-
 ## Socials
 
 [![Preview](assets/linkedin.png)](https://www.linkedin.com/in/jack-liam-zamary) &nbsp;
