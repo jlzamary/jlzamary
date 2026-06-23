@@ -1,5 +1,6 @@
 
-![banner](assets/im_jackz.png)
+<!-- ![banner](assets/im_jackz.png) -->
+![banner](assets/im_jackz_ml.png)
 
 ## Hi There! 🧗‍♂️
 I'm Jack, a __Data Science__ major and __Biology__ minor at William & Mary
