@@ -4,14 +4,15 @@
 
 ## Hi There! 🧗‍♂️
 I'm Jack, a __Data Science__ major and __Biology__ minor at William & Mary
-- Currently, I'm an undergraduate research analyst for the Wildlife Conservation Society and full time student
+- Currently a Data Science Intern at [Aireon LLC](https://aireon.com/)
+- Member of the Conservation GIS Lab and Conservation Research Program at William & Mary
 - I specialize in building out machine learning pipelines and working with remote sensing data to better inform conservation-related decisions. Learn more about my research and projects on my [Portfolio Website](https://jlzamary.github.io/).
 
 ## 🧭 Current Snapshot
 
 | | |
 |-|-|
-| **Reading** | [*Catch-22*](https://www.amazon.com/Catch-22-50th-Anniversary-Joseph-Heller/dp/1451626657) |
+| **Reading** | [*Children of Dune*](https://www.amazon.com/Children-Dune-Frank-Herbert/dp/0593098242) by Frank Herbert |
 | **Projects** | Currently None... *Busy with summer internship and research* |
 | **Research** | [Chukchi Sea Lagoons](https://github.com/jlzamary/WCS-Lagoon-Analysis) & [AI-Powered Identification of Manatees](https://www.wm.edu/offices/iic/research/2026-year-long-crp-projects/26-006-manatee-identification.php) |
 | **Learning** | PyTorch [Mask R-CNN Architecture](https://docs.pytorch.org/vision/main/models/mask_rcnn.html) |
