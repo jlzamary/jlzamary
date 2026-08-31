@@ -4,7 +4,7 @@
 
 ## Hi There! 🧗‍♂️
 I'm Jack, a __Data Science__ major and __Biology__ minor at William & Mary
-- Currently a Data Science Intern at [Aireon LLC](https://aireon.com/)
+- Recently wrapped up my Data Science Internship at [Aireon LLC](https://aireon.com/)
 - Member of the Conservation GIS Lab and Conservation Research Program at William & Mary
 - I specialize in building out machine learning pipelines and working with remote sensing data to better inform conservation-related decisions. Learn more about my research and projects on my [Portfolio Website](https://jlzamary.com/).
 
