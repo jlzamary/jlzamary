@@ -13,7 +13,7 @@ I'm Jack, a __Data Science__ major and __Biology__ minor at William & Mary
 | | |
 |-|-|
 | **Reading** | [*Children of Dune*](https://www.amazon.com/Children-Dune-Frank-Herbert/dp/0593098242) by Frank Herbert |
-| **Projects** | Currently None... *Busy with summer internship and research* |
+| **Projects** | #30DayMapChallenge [Daily Blog](https://jlzamary.github.io/Cartography/App/) |
 | **Research** | [Chukchi Sea Lagoons](https://github.com/jlzamary/WCS-Lagoon-Analysis) & [AI-Powered Identification of Manatees](https://www.wm.edu/offices/iic/research/2026-year-long-crp-projects/26-006-manatee-identification.php) |
 | **Learning** | PyTorch [Mask R-CNN Architecture](https://docs.pytorch.org/vision/main/models/mask_rcnn.html) |
 
